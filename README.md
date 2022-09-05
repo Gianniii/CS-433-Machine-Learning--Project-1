@@ -3,7 +3,7 @@
 
 Authors: Gianni Lodetti, Luca Bracone, Omid Karimi
 
-In this project, the goal is to create a machine learning model for binary classification. The task was to detect Higgs Boson particles from background events using CERN’s LHC dataset. Some more information and dataset available on [AICrowd](https://www.aicrowd.com/challenges/epfl-machine-learning-higgs).
+In this project, the goal was to create a machine learning model for binary classification. The task was to detect Higgs Boson particles from background events using CERN’s LHC dataset. Some more information and dataset available on [AICrowd](https://www.aicrowd.com/challenges/epfl-machine-learning-higgs).
 
 ## Best Model
 The code is available in the ```scripts/``` folder. <br />
