@@ -1,4 +1,4 @@
-# Machine Learning Project 1: Team Salt!
+# Machine Learning Project 1
 ## Higgs Boson Challenge
 
 Authors: Gianni Lodetti, Luca Bracone, Omid Karimi
